@@ -1,0 +1,7 @@
+name=Sword Waggler
+author=Claire
+description=Waggle your sword
+bundleID=com.claireneveu.swordwaggler
+version=0.1
+buildNumber=100
+imagePath=SystemAssets
